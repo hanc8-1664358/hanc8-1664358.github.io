@@ -1,0 +1,26 @@
+#TextAtTheCenterOfPhoto{
+    text-align: center;
+    background-color: orchid;
+}
+
+#DottedAndRoundedBorder{
+    border: 2px dotted black;
+    border-radius: 15px;
+ }
+            
+#TextWithOneFont {
+    font-family: 'Times New Roman', Times, serif;;
+    font-size: 200%;
+                
+}
+            
+#TextWithAnotherFont{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 200%;
+}
+           
+#ImageWith20pxMarginAndFloated {
+    margin: 20px;
+    float: right;
+
+}
